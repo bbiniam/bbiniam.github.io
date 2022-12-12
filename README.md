@@ -1,1 +1,2 @@
-# bbiniam.github.io
+# Final Project for CMSC320
+### Bethel Biniam
