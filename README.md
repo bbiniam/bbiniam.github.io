@@ -1,2 +1,4 @@
 # Final Project for CMSC320
-### Bethel Biniam
+#### Bethel Biniam
+
+Report is found at bbiniam.github.io
